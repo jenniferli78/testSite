@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <!-- pinterest stuff-->
         <script type="text/javascript">
@@ -28,4 +30,5 @@ Hello this is Barto McWaves. I\'m not finished with this website yet so pls chec
         
 include 'Template.php';
 ?>
+</html>
 
