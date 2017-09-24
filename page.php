@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <head>
 <!-- pinterest stuff-->
         <script type="text/javascript">
@@ -31,3 +32,17 @@ Hello this is bartomcWaves!
         
 include 'Template.php';
 ?>
+=======
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+        echo "I'm doin a test<br>";
+        ?>
+        <a href="index.php">HOME</a>
+    </body>
+</html>
+>>>>>>> c41281ced037735c0bc6eb47c36a32514bc8f386
