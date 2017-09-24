@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <head>
 <!-- pinterest stuff-->
         <script type="text/javascript">
@@ -48,4 +47,4 @@ and open the template in the editor.
         <a href="page.php">test</a>
     </body>
 </html>
->>>>>>> c41281ced037735c0bc6eb47c36a32514bc8f386
+

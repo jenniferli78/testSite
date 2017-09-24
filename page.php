@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <head>
 <!-- pinterest stuff-->
         <script type="text/javascript">
@@ -45,4 +44,3 @@ include 'Template.php';
         <a href="index.php">HOME</a>
     </body>
 </html>
->>>>>>> c41281ced037735c0bc6eb47c36a32514bc8f386
